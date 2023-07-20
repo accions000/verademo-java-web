@@ -2,7 +2,6 @@ on:
   push:
     branches:
       - remote
-      - 'releases/**'
   workflow_dispatch:
 
 jobs:
