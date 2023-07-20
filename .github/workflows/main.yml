@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - main
+      - remote
   workflow_dispatch:
 
 jobs:
